@@ -45,4 +45,6 @@ Se confirma un intento de **ARP Spoofing** mediante la duplicación de direccion
 ## 👩‍💻 Autora
 
 **Ingrid K.**  
-📅 Agosto 2025
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ingrid-k)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingridkaufmannok@gmail.com)
