@@ -19,12 +19,12 @@ Se emplearon filtros especializados de Wireshark para identificar al atacante, v
 
 ---
 
-## 📁 Hallazgos Principales
+## 📁 Hallazgos
 
 **Identificación del atacante** \
-• **MAC Address:** `bc:24:11:52:16:9a`  
-• **Sistema operativo:** Linux  
-• **Host:** `ProxmoxServe`
+• MAC Address: `bc:24:11:52:16:9a`  
+• Sistema operativo: Linux  
+• Host: `ProxmoxServe`
 
 **Técnicas de análisis** \
 Filtros clave utilizados en Wireshark:
@@ -34,17 +34,17 @@ Filtros clave utilizados en Wireshark:
 - `ip.ttl == 64`
 
 **Evidencias del ataque** \
-• Asociación de múltiples IP a una misma MAC (envenenamiento ARP)  
-• Suplantación de IP pública: **8.8.8.8**  
-• TTL característico de sistemas Linux (64)
+• Asociación de múltiples IP a una misma MAC (envenenamiento ARP).  
+• Suplantación de IP pública: **8.8.8.8**.  
+• TTL característico de sistemas Linux (64).
 
 ---
 
-## 🎯 Objetivos del Análisis
+## 🎯 Objetivos
 
-• Detectar intento de envenenamiento ARP mediante técnicas de monitoreo pasivo  
-• Identificar atributos del atacante a partir del tráfico capturado  
-• Utilizar evidencia técnica concreta para sustentar la conclusión forense  
+• Detectar intento de envenenamiento ARP mediante técnicas de monitoreo pasivo.  
+• Identificar atributos del atacante a partir del tráfico capturado.  
+• Utilizar evidencia técnica concreta para sustentar la conclusión forense.  
 
 ---
 
