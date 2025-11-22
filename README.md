@@ -10,13 +10,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-e57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-Análisis forense de tráfico de red orientado a la detección de actividades sospechosas, utilizando técnicas de inspección ARP e indicadores clave para identificar un ataque activo.
-
 ---
 
 ## 🌟 Descripción
 
-Este análisis forense documenta la detección e investigación de un ataque de **ARP Spoofing** e **IP Spoofing** dentro de un entorno controlado.  
+Análisis forense que documenta la detección e investigación de un ataque de **ARP Spoofing** e **IP Spoofing** dentro de un entorno controlado.  
 Se emplearon filtros especializados de Wireshark para identificar al atacante, validar patrones anómalos y correlacionar eventos.
 
 ---
