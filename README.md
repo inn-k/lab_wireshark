@@ -1,4 +1,4 @@
-# 🛡️ LAB: Análisis Forense de Red | Detección de ARP Spoofing
+# 🛡️ LAB: Análisis forense de red | Detección de ARP spoofing
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
